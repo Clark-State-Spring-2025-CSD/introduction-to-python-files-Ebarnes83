@@ -4,11 +4,11 @@
 ### The output should look like the follow line without the ###
 ### Hello, world. There were 10 cakes, but Lex Luthor stole 2. Now there's 8. And that's sad.
 
-the Hello = "Hello"
-the.World = "world"
+theHello = "Hello"
+theWorld = "world"
 cakes = 10
 theft = 2
 
-remaining = cakes - THEFT
+remaining = cakes - theft
 
-print(f"{thehello}, {theWorld}. There were {10cakes} cakes, but Lex Luthor stole {theft}. Now there's {remaining}. And that's sad.")
+print(f"{theHello}, {theWorld}. There were {cakes} cakes, but Lex Luthor stole {theft}. Now there's {remaining}. And that's sad.")
