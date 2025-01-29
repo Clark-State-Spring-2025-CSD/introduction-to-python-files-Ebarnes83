@@ -1,3 +1,4 @@
+#Eric Barnes Python 01/29/2025
 ### Fix variables practice
 ### Fix this file so that it runs. Do not add any aditional lines of code.
 ### Only change the variable names so the code runs.
