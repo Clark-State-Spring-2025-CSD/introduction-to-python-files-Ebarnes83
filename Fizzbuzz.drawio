@@ -1,0 +1,47 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="mYSNvKxQ1UnH5DGpcMiR">
+    <mxGraphModel dx="2140" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrMbscWhI1mrvuHDwMt2-1" target="wrMbscWhI1mrvuHDwMt2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="wrMbscWhI1mrvuHDwMt2-2" target="wrMbscWhI1mrvuHDwMt2-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="340" />
+              <mxPoint x="73" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.58;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wrMbscWhI1mrvuHDwMt2-2" target="wrMbscWhI1mrvuHDwMt2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-2" value="If number between 1-25 is divisible by 3 and 5 print FizzBuzz" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="115" y="310" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-5" value="Else its is only divisible by 3 print Fizz" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry y="530" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-6" value="Else its is only divisible by 5 print buzz" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-7" value="If neither print the number" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMbscWhI1mrvuHDwMt2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.92;exitY=0.351;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wrMbscWhI1mrvuHDwMt2-2" target="wrMbscWhI1mrvuHDwMt2-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="342" />
+              <mxPoint x="640" y="527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
