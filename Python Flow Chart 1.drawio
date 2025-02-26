@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="Hm-Xv5g0DbxVW_l2wxMA">
+    <mxGraphModel dx="290" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="30" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PU0ce0GtF3yJnVmANiKy-1" target="PU0ce0GtF3yJnVmANiKy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="15" y="450" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PU0ce0GtF3yJnVmANiKy-2" target="PU0ce0GtF3yJnVmANiKy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-6" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="30" y="890" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-8" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, arial, helvetica, sans-serif; font-size: 13.3333px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Welcome to the payment calculator.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="62.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-9" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, arial, helvetica, sans-serif; font-size: 13.3333px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Your interest payment per month is&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-10" value="loanAmount&lt;div&gt;input&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PU0ce0GtF3yJnVmANiKy-11" target="PU0ce0GtF3yJnVmANiKy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5" y="650" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-12" value="aprAmount input&lt;div&gt;divided by 100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="480" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-13" value="price = loanAmount* (aprAmount divided by 12)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="685" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PU0ce0GtF3yJnVmANiKy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PU0ce0GtF3yJnVmANiKy-4" target="PU0ce0GtF3yJnVmANiKy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
